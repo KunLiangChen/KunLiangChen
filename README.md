@@ -13,7 +13,7 @@
 
 ###  About Me
 
--  I’m currently working on **Brick Peak project**
+-  I’m currently working on **Brick Pick project**
 -  I’m currently learning **Robotics and CS**
 -  I'm seeking for **Master degree of Game development**
 -  Ask me about **Computer science(OUC HW cooperate)** (Only know this and not sure I can give a satisfactory answer)
