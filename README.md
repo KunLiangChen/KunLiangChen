@@ -15,6 +15,7 @@
 
 -  I’m currently working on **Brick Pick project**
 -  I’m currently learning **Robotics and CS**
+-  I'm currently self-studying courses related to games (Games101, Godot engine).
 -  I'm seeking for **Master degree of Game development**
 -  Ask me about **Computer science(OUC HW cooperate)** (Only know this and not sure I can give a satisfactory answer)
 -  How to reach me: **lc2108@hw.ac.uk or clk@stu.ouc.edu.cn**
