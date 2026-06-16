@@ -28,6 +28,7 @@
   <!-- Programming languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-3776AB?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-EF6207?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/ROS(learning)-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
