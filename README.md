@@ -13,13 +13,14 @@
 
 ###  About Me
 
--  I’m currently working on **Brick Pick project**
+-  I’m currently working on **dissertation**
 -  I’m currently learning **Robotics and CS**
 -  I'm currently self-studying courses related to games (Games101, Godot engine).
--  I'm seeking for **Master degree of Game development**
+-  I'm seeking for **Master degree of Game development** or any relevant.
 -  Ask me about **Computer science(OUC HW cooperate)** (Only know this and not sure I can give a satisfactory answer)
 -  How to reach me: **lc2108@hw.ac.uk or clk@stu.ouc.edu.cn**
 -  Fun fact: **Being a total trash can in Elden Ring: Nightreig( ；´Д｀)**
+-  Love **Touhou Project**
 
 ---
 
